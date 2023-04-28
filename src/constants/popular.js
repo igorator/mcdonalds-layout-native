@@ -1,9 +1,9 @@
-import bigMac from "../assets/categories/bigMac.png";
-import bigTasty from "../assets/categories/bigTasty.png";
-import cheese from "../assets/categories/cheese.png";
-import coke from "../assets/categories/coke.png";
-import doubleCheese from "../assets/categories/doubleCheese.png";
-import nuggets from "../assets/categories/nuggets.png";
+import bigMac from "../assets/popular/bigMac.png";
+import bigTasty from "../assets/popular/bigTasty.png";
+import cheese from "../assets/popular/cheese.png";
+import coke from "../assets/popular/coke.png";
+import doubleCheese from "../assets/popular/doubleCheese.png";
+import nuggets from "../assets/popular/nuggets.png";
 
 export const popular = [
   {
@@ -19,7 +19,7 @@ export const popular = [
   },
 
   {
-    title: "Cheeseburger",
+    title: "Cheese",
     price: "3.57$",
     image: cheese,
   },
