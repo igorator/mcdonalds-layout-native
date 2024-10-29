@@ -1,4 +1,4 @@
-# My Universal React Project
+# React Native McDonalds layout [Educational]
 
 <p>
   <!-- iOS -->
